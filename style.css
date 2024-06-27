@@ -6,6 +6,8 @@
 body{
     background-color:black;
 }
+
+/* nav */
 nav{
     display: flex;
     height:4em;
@@ -73,6 +75,8 @@ nav{
     font-size: medium;
     padding: 10px;
 }
+
+/* hero */
 .hero{
     display: flex;
     height: 1000px;
@@ -121,6 +125,8 @@ nav{
     width: 550px;
     margin:3rem 1rem;
 }
+
+/* home */
 .home{
     display: flex;
     width:100%;
@@ -193,6 +199,8 @@ nav{
     text-decoration: underline;
     transition: 0.5s;
 }
+
+/* home-2 */
 .home-2{
     display: flex;
     width:100%;
@@ -259,6 +267,8 @@ nav{
     font-size: 20px;
     line-height: 50px;
 }
+
+/* home-3 */
 .home-3{
     display: flex;
     width:100%;
@@ -320,6 +330,8 @@ nav{
     color: white;
     background: black;
 }
+
+/* last */
 .last{
     display:flex;
     width:100%;
@@ -392,11 +404,15 @@ nav{
     padding-top: 0rem;
     padding-left: 0;
 }
+
+/* footer */
 .footer{
     width:100%;
     height:1000px;
     background-color:black;
 }
+
+/* footer-upper */
 .footer-upper{
     width:100%;
     color: white;
@@ -412,6 +428,8 @@ nav{
     font-size: 20px;
     cursor: pointer;
  }
+
+ /* footer-middle */
 .footer-middle{
     width:100%;
     height: 450px;
@@ -454,6 +472,7 @@ nav{
     font-size:25px;
     font-weight: 100;
 }
+/* footer-bottom */
 .footer-bottom{
     display: flex;
     width:100%;
